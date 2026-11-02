@@ -1,1 +1,1 @@
-# cybersecurity
+sudo apt install opsec
